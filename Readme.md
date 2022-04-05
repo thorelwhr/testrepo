@@ -6,6 +6,7 @@ Waldemar Titov
 Nils Schrader
 Christoph May
 Nicolas Blümelhuber
+Luca Hahn
 =======
 Florin Jungemeyer
 Bijan Hossein Tari
