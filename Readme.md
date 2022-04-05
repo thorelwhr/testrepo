@@ -7,6 +7,8 @@ Nils Schrader
 Christoph May
 Nicolas Blümelhuber
 Luca Hahn
+Florian Schuster
+Christian Gerstner
 =======
 Florin Jungemeyer
 Bijan Hossein Tari
